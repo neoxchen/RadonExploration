@@ -1,0 +1,18 @@
+# Math & ML
+matplotlib
+numpy
+pandas
+scikit-image
+scipy
+
+# Astronomy
+astropy
+
+# Database
+psycopg2
+
+# Miscellaneous
+imageio
+requests
+tqdm
+
